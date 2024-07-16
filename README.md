@@ -1,6 +1,6 @@
 # WebdAssignment.com
 
-Description
+## Description
 
 This is an assignment for the Web Developer Internship Application. The assignment involves creating and hosting a small website's homepage based on provided UI designs.
 
